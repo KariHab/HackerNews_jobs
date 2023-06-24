@@ -1,7 +1,7 @@
 # HackerNews_jobs
 Get all the jobs from Hacker News
 
-Using the Hacker News API [ from https://github.com/HackerNews/API](https://github.com/HackerNews/API)
+Using the Hacker News API [https://github.com/HackerNews/API](https://github.com/HackerNews/API)
 
 
 This is a project in progress
