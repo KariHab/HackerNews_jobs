@@ -3,8 +3,10 @@ Get all the jobs from Hacker News
 
 Using the Hacker News API [https://github.com/HackerNews/API](https://github.com/HackerNews/API)
 
+![HackerNews_job](https://github.com/KariHab/HackerNews_jobs/assets/121245611/92e9672a-ecf2-4d3c-b987-5ef158ebd6e2)
 
-This is a project in progress
+This is a work in progress...
+
 --------------------------------
 
 # What it does
