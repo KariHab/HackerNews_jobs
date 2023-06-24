@@ -3,7 +3,7 @@ import time
 import pyfiglet as pf
 
 print('\033[1;33;40m')
-print('\033[1;33;40m',pf.figlet_format('Hackar News Jobs'),'\033[1;37;40m')
+print('\033[1;33;40m',pf.figlet_format('Hacker News Jobs'),'\033[1;37;40m')
 url = 'https://hacker-news.firebaseio.com/v0/jobstories.json'
 result = requests.get(url)
 
